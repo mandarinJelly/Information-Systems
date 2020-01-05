@@ -1,1 +1,1 @@
-"# core-class-notes" 
+# Core Class Notes
